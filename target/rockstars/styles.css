@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    background-color: #ffcc00; /* Rockstar yellow */
+    border-radius: 15px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.star {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    font-size: 6rem;
+    color:white; /* Star color */
+}
+
+.text {
+    font-size: 6rem;
+    color: #000; /* R color */
+    font-weight: bold;
+}
+
+.sign-in {
+    background-color: #ffcc00;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.sign-in:hover {
+    background-color: white;
+}
