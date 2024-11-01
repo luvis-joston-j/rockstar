@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="jo"><h1 style="color:white;font-family: calibri;"><i>Rockstar Games Presents</i></h1></div>
+<div class="jo"><h1 style="color:white;font-family: calibri;"><i>Rockstar Games North Presents</i></h1></div>
     <div class="container">
         <div class="logo">
             <div class="star"><svg width="100" height="100" viewBox="0 0 100 100">
